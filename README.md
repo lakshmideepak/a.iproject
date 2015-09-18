@@ -1,0 +1,2 @@
+# a.iproject
+SCENE RECOGNITION WITH BAG OF WORDS 
